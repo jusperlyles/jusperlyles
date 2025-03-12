@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jusperkato
 - 👀 I’m interested in ...c,javascript 
 - 🌱 I’m currently learning ...software engineering 
-- 💞️ I’m looking to collaborate on ...metal projects 
+- 💞️ I just love defending systems not hacking 
 - 📫 How to reach me ...jusperkato@gmail.com 
 
 <!---
